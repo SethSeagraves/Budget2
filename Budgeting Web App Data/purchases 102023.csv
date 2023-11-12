@@ -1,0 +1,131 @@
+Month,Day,Year,Time,Purchaser,Category,Place,Amount,Notes
+10,1,2023,08:56:18,Alexa,Misc Necessities,Other,51.25,Alexa cosmetology license 
+10,1,2023,11:06:42,Alexa,Restaurants,Star Bucks,10.0,
+10,1,2023,12:47:47,Both,Groceries,BJ’s,167.14,
+10,1,2023,16:59:35,Alexa,Vacation,Transportation,291.78,Flight to MO for Alexa’s clients 
+10,1,2023,17:00:42,Both,Restaurants,McDonald's,3.54,
+10,2,2023,10:05:09,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,2,2023,13:34:49,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,3,2023,09:15:23,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,3,2023,10:16:41,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,4,2023,08:03:19,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,5,2023,04:35:15,Both,Groceries,Walmart,10.66,
+10,5,2023,06:29:34,Seth,Restaurants,Lockheed Martin Cafeteria,3.08,
+10,5,2023,06:34:08,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,5,2023,10:36:20,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,6,2023,09:25:55,Seth,Groceries,Dollar General,3.17,
+10,6,2023,10:57:28,Both,Vacation,Transportation,961.07,Thanks Giving plane tickets
+10,6,2023,10:57:54,Seth,Seth's Income,Main Income,1775.43,
+10,6,2023,11:58:55,Seth,Savings,Retirement,19.63,
+10,6,2023,11:59:25,Seth,Insurance,Health Insurance,55.74,19.63
+10,6,2023,13:41:41,Alexa,Misc Necessities,Other,55.04,Shampoo and conditioner 
+10,6,2023,16:42:38,Seth,Restaurants,McDonald's,2.89,
+10,6,2023,17:05:43,Seth,Restaurants,McDonald's,2.78,
+10,6,2023,22:18:25,Alexa,Restaurants,McDonald's,2.57,
+10,6,2023,22:18:54,Alexa,Alexa's Income,Side Income,244.66,
+10,7,2023,12:45:22,Both,Entertainment,Board Games,12.0,
+10,7,2023,12:45:58,Both,Misc Necessities,Clothes,6.0,Hailee school shirts
+10,7,2023,12:47:19,Both,Groceries,Walmart,15.42,
+10,7,2023,18:38:54,Both,Restaurants,Taco Bell,11.95,
+10,8,2023,10:15:51,Both,Savings,Other,300.0,
+10,8,2023,12:50:09,Alexa,Automotive,Fuel,59.01,
+10,8,2023,12:50:25,Both,Restaurants,McDonald's,1.08,
+10,8,2023,12:50:50,Both,Restaurants,McDonald's,7.24,
+10,8,2023,12:52:15,Both,Misc Necessities,Other,2.69,Dog shampoo
+10,9,2023,08:46:58,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,9,2023,12:27:52,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,10,2023,07:36:23,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,10,2023,19:47:05,Both,Groceries,Aldi,5.09,
+10,11,2023,08:41:44,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,11,2023,11:57:24,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,11,2023,19:13:45,Seth,Restaurants,McDonald's,6.26,
+10,11,2023,19:16:47,Alexa,Restaurants,On the Border,2.86,
+10,11,2023,19:39:38,Alexa,Restaurants,Airport Food,5.58,
+10,12,2023,12:51:27,Both,Medical,Checkup,50.0,Hailee checkup to go back to school
+10,12,2023,18:34:01,Seth,Restaurants,Twistee Treat,8.46,
+10,13,2023,10:42:08,Seth,Seth's Income,Main Income,1469.77,
+10,13,2023,10:42:49,Seth,Insurance,Health Insurance,55.74,
+10,13,2023,10:43:13,Seth,Savings,Retirement,19.63,
+10,13,2023,19:07:22,Alexa,Groceries,Other,4.24,
+10,13,2023,19:41:10,Seth,Restaurants,McDonald's,2.89,
+10,13,2023,20:21:58,Seth,Restaurants,McDonald's,4.09,
+10,13,2023,20:53:48,Seth,Misc Necessities,Other,6.43,Air conditioner filter
+10,14,2023,16:34:41,Alexa,Restaurants,Panera Bread,8.62,
+10,14,2023,17:20:03,Seth,Restaurants,McDonald's,5.36,
+10,14,2023,17:20:09,Seth,Restaurants,McDonald's,5.45,
+10,15,2023,10:19:47,Alexa,Restaurants,Airport Food,5.31,
+10,15,2023,20:27:07,Both,Groceries,BJ’s,150.38,
+10,16,2023,07:24:52,Seth,Restaurants,Lockheed Martin Cafeteria,4.56,
+10,16,2023,09:09:47,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,16,2023,12:00:57,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,16,2023,15:06:17,Alexa,Alexa's Income,Side Income,250.0,
+10,16,2023,15:06:35,Alexa,Restaurants,Star Bucks,15.0,
+10,16,2023,18:30:11,Seth,Automotive,Fuel,40.0,
+10,17,2023,06:39:33,Seth,Restaurants,Lockheed Martin Cafeteria,3.18,
+10,18,2023,07:14:53,Seth,Restaurants,Lockheed Martin Cafeteria,5.2,
+10,18,2023,11:37:44,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,18,2023,20:12:29,Alexa,Vacation,Transportation,243.78,Alexa work plane ticket 
+10,18,2023,20:13:21,Alexa,Pet Supplies,Pet Food,13.97,Chloe food
+10,18,2023,20:13:43,Alexa,Groceries,Target,13.93,Chloe food
+10,18,2023,20:14:17,Alexa,Restaurants,McDonald's,8.21,Lunch
+10,18,2023,22:04:24,Both,Gifts,Birthday,99.84,Aiden’s 5th birthday 
+10,19,2023,07:17:39,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,19,2023,11:19:41,Alexa,Automotive,Fuel,54.6,
+10,19,2023,18:06:58,Both,Restaurants,McDonald's,3.97,
+10,20,2023,08:33:24,Both,Groceries,Walmart,40.29,
+10,20,2023,08:33:57,Alexa,Vacation,Transportation,131.79,Alexa work plane ticket 
+10,20,2023,08:34:23,Seth,Seth's Income,Main Income,2099.2,
+10,20,2023,10:43:58,Both,Restaurants,McDonald's,2.89,
+10,20,2023,19:09:52,Both,Restaurants,McDonald's,2.78,
+10,20,2023,19:10:22,Both,Gifts,Birthday,25.1,Aidens birthday cake and ice cream
+10,20,2023,20:16:56,Alexa,Restaurants,Taco Bell,6.96,
+10,20,2023,20:17:18,Both,Restaurants,Papa Johns,11.0,
+10,21,2023,18:37:22,Both,Gifts,Birthday,53.28,Chuck E Cheese for aiden and hailee
+10,21,2023,18:45:30,Both,Gifts,Birthday,12.24,Salad bar at Chuck E Cheese
+10,21,2023,19:53:18,Both,Gifts,Birthday,53.28,Chuck E Cheese for aiden and hailee
+10,22,2023,13:34:09,Both,Restaurants,McDonald's,6.43,
+10,22,2023,14:29:19,Seth,Insurance,Health Insurance,43.01,
+10,22,2023,14:29:55,Seth,Insurance,Health Insurance,5.26,
+10,22,2023,14:30:14,Seth,Savings,Retirement,19.63,
+10,22,2023,19:22:51,Both,Misc Necessities,Other,13.99,AAA batteries 
+10,23,2023,07:15:49,Seth,Restaurants,McDonald's,1.1,
+10,23,2023,12:46:29,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,24,2023,06:19:05,Seth,Restaurants,Lockheed Martin Cafeteria,4.56,
+10,24,2023,06:22:46,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,24,2023,13:04:27,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,24,2023,17:29:58,Alexa,Restaurants,McDonald's,13.38,
+10,25,2023,06:59:11,Seth,Restaurants,Lockheed Martin Cafeteria,3.08,
+10,25,2023,07:03:01,Seth,Restaurants,Lockheed Martin Cafeteria,1.1,
+10,25,2023,23:13:44,Both,Restaurants,McDonald's,3.11,
+10,25,2023,23:14:02,Alexa,Restaurants,On the Border,2.86,
+10,26,2023,10:48:59,Both,Groceries,BJ’s,80.86,
+10,26,2023,11:00:36,Alexa,Automotive,Fuel,42.0,
+10,26,2023,11:16:35,Seth,Restaurants,McDonald's,5.78,
+10,27,2023,10:09:56,Seth,Seth's Income,Main Income,1744.19,
+10,27,2023,10:42:04,Seth,Insurance,Health Insurance,47.01,
+10,27,2023,10:42:23,Seth,Savings,Retirement,19.63,
+10,27,2023,10:42:34,Seth,Insurance,Health Insurance,1.28,
+10,27,2023,10:42:40,Seth,Insurance,Health Insurance,4.0,
+10,27,2023,10:46:20,Both,Utilities,Water,108.34,
+10,27,2023,10:50:38,Both,Housing,Mortgage,3720.0,
+10,27,2023,10:54:12,Both,Utilities,Electric,276.36,
+10,27,2023,12:46:58,Both,Misc Necessities,Other,18.05,Reusable sandwich bags
+10,27,2023,12:47:24,Alexa,Restaurants,Star Bucks,10.0,
+10,27,2023,17:15:03,Seth,Misc Necessities,Other,1.54,Stuff to clean drains
+10,27,2023,17:43:02,Alexa,Medical,Medication,6.63,
+10,28,2023,10:22:19,Both,Misc Necessities,Clothes,20.41,Hailee’s Halloween costume
+10,28,2023,13:21:29,Alexa,Automotive,Fuel,15.0,
+10,28,2023,18:27:51,Seth,Restaurants,McDonald's,3.97,
+10,29,2023,08:19:41,Alexa,Restaurants,Airport Food,8.09,
+10,29,2023,11:33:33,Seth,Restaurants,McDonald's,3.97,
+10,29,2023,16:55:50,Both,Pet Supplies,Pet Food,23.66,Frankie’s hay
+10,29,2023,19:51:47,Seth,Misc Necessities,Other,12.0,Website domain name
+10,29,2023,20:19:27,Alexa,Restaurants,McDonald's,15.11,
+10,30,2023,04:39:15,Both,Debt,Credit Card,63.0,Couch
+10,30,2023,06:35:55,Seth,Restaurants,Lockheed Martin Cafeteria,3.08,
+10,30,2023,18:40:26,Alexa,Restaurants,Taco Bell,11.59,
+10,30,2023,18:41:44,Alexa,Misc Necessities,Clothes,37.61,Aiden’s Halloween costume
+10,31,2023,06:34:01,Seth,Restaurants,Lockheed Martin Cafeteria,3.61,
+10,31,2023,09:00:23,Both,Debt,Credit Card,60.0,Water filter
+10,31,2023,17:15:00,Both,Vacation,Transportation,333.08,Christmas flights (hailee and seth)
+10,31,2023,17:15:23,Both,Vacation,Transportation,252.98,Christmas flights (Alexa and Aiden)

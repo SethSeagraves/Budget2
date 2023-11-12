@@ -1,0 +1,82 @@
+Month,Day,Year,Time,Purchaser,Category,Place,Amount,Notes
+7,21,2023,13:32:25,,Seth's Income,Main Income,0.01,
+7,21,2023,13:32:35,,Alexa's Income,Main Income,0.01,
+8,3,2023,06:35:17,,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,4,2023,09:42:08,,Seth's Income,Main Income,1780.9,
+8,4,2023,09:42:58,,Restaurants,Chipotle,28.86,
+8,4,2023,09:43:46,,Automotive,Fuel,50.0,
+8,4,2023,14:59:41,,Restaurants,Whole Foods,15.46,
+8,5,2023,14:53:56,,Groceries,Aldi,160.15,
+8,6,2023,13:55:11,,Personal,Electronics,8.19,Alexa's Mac Book Air charger
+8,7,2023,06:53:42,,Restaurants,Lockheed Martin Cafeteria,9.24,
+8,7,2023,12:08:27,,Restaurants,Lockheed Martin Cafeteria,11.17,
+8,7,2023,19:19:04,,Misc Necessities,,35.0,Hailee’s physical and shots for school
+8,7,2023,20:58:16,,Misc Necessities,,62.73,Hailee’s school supplies
+8,7,2023,21:00:07,,Misc Necessities,,145.28,Hailee’s school supplies and clothes
+8,8,2023,15:42:52,,Automotive,Fuel,45.0,
+8,8,2023,15:43:05,,Housing,Mortgage,3720.0,
+8,8,2023,17:59:19,,Restaurants,McDonald's,4.2,
+8,9,2023,06:21:27,,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,9,2023,12:49:33,,Pet Supplies,Pet Food,13.97,
+8,9,2023,21:44:23,,Groceries,Walmart,52.15,
+8,10,2023,10:11:41,,Misc Necessities,,14.62,Ant killer 
+8,11,2023,08:24:09,,Automotive,Fuel,74.12,
+8,11,2023,08:24:44,,Seth's Income,Main Income,1469.76,
+8,11,2023,08:25:03,,Alexa's Income,Main Income,313.8,
+8,11,2023,11:43:24,,Misc Necessities,,2.5,Aidens wedding shirt
+8,11,2023,15:15:15,,Misc Necessities,,23.6,Seth’s underwear 
+8,11,2023,18:45:18,,Restaurants,Burger King,21.47,
+8,11,2023,18:46:30,,Groceries,Walmart,5.72,
+8,12,2023,15:57:23,,Misc Necessities,,19.09,Walmart travel necessities
+8,12,2023,15:58:00,,Restaurants,Other,9.49,
+8,12,2023,17:39:11,,Automotive,Fuel,20.0,
+8,13,2023,17:20:08,,Gifts,Wedding,65.76,Bacon wrapped smokies for syds wedding 
+8,13,2023,17:21:02,,Dates,Movies,17.5,Barbie 
+8,13,2023,18:47:12,,Automotive,Fuel,20.01,
+8,13,2023,20:17:53,,Restaurants,McDonald's,1.53,
+8,13,2023,20:18:33,,Misc Necessities,,5.51,Blanket for movie 
+8,14,2023,12:39:53,,Misc Necessities,,9.55,Kids shoes for wedding 
+8,15,2023,06:08:26,,Misc Necessities,,2.66,Airport drink 
+8,15,2023,11:09:34,,Misc Necessities,,40.0,Airport parking 
+8,15,2023,19:20:50,,Restaurants,Mama Romano’s,91.11,Too expensive 
+8,16,2023,07:05:18,,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,16,2023,16:48:36,,Groceries,Walmart,35.55,
+8,17,2023,07:13:07,,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,18,2023,09:37:00,,Groceries,Aldi,59.0,
+8,18,2023,19:16:42,,Restaurants,Chick-Fil-A,25.64,
+8,18,2023,19:17:32,,Seth's Income,Main Income,1469.78,
+8,19,2023,18:37:48,,Groceries,Walmart,65.7,
+8,21,2023,07:08:57,,Restaurants,Lockheed Martin Cafeteria,6.36,
+8,22,2023,06:26:47,,Restaurants,Lockheed Martin Cafeteria,3.08,
+8,22,2023,17:32:00,,Debt,Credit Card,63.0,Couch
+8,22,2023,17:32:46,,Automotive,Fuel,30.0,
+8,23,2023,06:57:39,,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,23,2023,14:53:06,,Automotive,Fuel,53.0,
+8,24,2023,18:20:38,,Groceries,Walmart,107.48,
+8,25,2023,13:58:27,,Seth's Income,Main Income,1469.76,
+8,25,2023,13:58:49,,Alexa's Income,Main Income,181.1,
+8,25,2023,16:14:02,,Restaurants,McDonald's,2.14,
+8,25,2023,19:01:37,,Misc Necessities,,495.0,Brennan’s wedding plane tickets
+8,26,2023,15:25:47,Seth,Insurance,Health Insurance,96.83,
+8,26,2023,15:26:29,Seth,Insurance,Health Insurance,55.74,
+8,26,2023,15:26:58,Seth,Insurance,Health Insurance,55.74,
+8,26,2023,15:27:28,Seth,Insurance,Health Insurance,55.74,
+8,26,2023,15:48:48,Seth,Savings,Retirement,19.63,
+8,26,2023,15:48:48,Seth,Savings,Retirement,19.63,
+8,26,2023,15:48:49,Seth,Savings,Retirement,19.63,
+8,26,2023,15:48:51,Seth,Savings,Retirement,19.63,
+8,26,2023,16:33:12,Both,Savings,Other,500.0,Initial saving deposit
+8,26,2023,20:21:07,Both,Groceries,Target,32.24,$20 board game 
+8,27,2023,21:20:30,Seth,Personal,Electronics,15.96,
+8,28,2023,07:10:50,Seth,Restaurants,Lockheed Martin Cafeteria,3.4,
+8,28,2023,11:39:21,Seth,Restaurants,Lockheed Martin Cafeteria,4.14,
+8,28,2023,15:09:15,Alexa,Groceries,Walmart,22.1,
+8,28,2023,15:09:47,Alexa,Restaurants,McDonald's,10.36,
+8,28,2023,17:42:56,Seth,Personal,Games,4.99,Monopoly on my phone 
+8,29,2023,21:06:19,Both,Groceries,7/11,11.27,
+8,31,2023,06:47:54,Seth,Restaurants,Lockheed Martin Cafeteria,6.48,
+8,31,2023,06:48:34,Both,Utilities,Electric,320.71,
+8,31,2023,13:40:34,Alexa,Groceries,7/11,14.96,
+8,31,2023,14:05:46,Both,Utilities,Internet,74.99,
+8,31,2023,14:06:05,Both,Utilities,Water,108.34,
+08,31,2023,14:11:48,Both,Housing,Mortgage,3720.0,

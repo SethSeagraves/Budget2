@@ -1,0 +1,9 @@
+Purchase Item,Quantity,Approximate Price,Price,Necessity,Link,Necessity (1-10)
+Fridge,1,3000.0,3800.0,2.0,https://www.bestbuy.com/site/kitchenaid-23-8-cu-ft-french-door-counter-depth-refrigerator-stainless-steel/5508007.p?skuId=5508007,
+"10"" Ceramic Pates",8,100.0,90.0,3.0,https://www.amazon.com/Ceramic-Porcelain-Dinnerware-Resistant-Dishwasher/dp/B0B3WHBZ65/ref=sr_1_96?crid=QBS2GJSEUPND&keywords=ceramic%2Bplates&qid=1682278604&sprefix=ceramic%2Bplate%2Caps%2C152&sr=8-96&th=1,
+"8.5"" Ceramic Pates",12,100.0,72.0,3.0,https://www.amazon.com/AmorArc-Stoneware-Appetizer-Microwave-Dishwasher/dp/B09ND5LLVP/ref=sr_1_7?crid=14MHR2D0W2QL4&keywords=small%2Bceramic%2Bplates&qid=1682278901&sprefix=small%2Bceramic%2Bplates%2Caps%2C150&sr=8-7&th=1,
+28oz Ceramic Bowls,8,100.0,66.0,3.0,https://www.amazon.com/Mora-Ceramic-Bowls-Kitchen-28oz/dp/B0894MWTVD/ref=sr_1_5?crid=1EEZZA3JJ0AOC&keywords=ceramic%2Bbowls&qid=1682278986&sprefix=ceramic%2Bbowls%2Caps%2C220&sr=8-5&th=1,
+Alexa Seth Bed,1,1000.0,0.0,5.0,,
+Living Room Coffee Table,1,500.0,0.0,7.0,,
+Dining Room Table,1,500.0,0.0,7.0,,
+Breakfast Nook Table,1,500.0,0.0,5.0,,
